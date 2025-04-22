@@ -16,10 +16,11 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```
 
 3. Navigate to the project directory:
-
+   ~~`cd multicalc`~~  
    ```sh
-   cd multicalc
+   cd multicalc-tests
    ```
+   
 4. Install the dependencies:
 
 
